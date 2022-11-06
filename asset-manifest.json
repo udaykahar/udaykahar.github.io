@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d68e846d.css",
+    "main.js": "/static/js/main.3dd8afd5.js",
+    "static/media/bg1.jpg": "/static/media/bg1.762a0b00717bfe69a24a.jpg",
+    "static/media/richagour.jpg": "/static/media/richagour.c029bfd3c7a5f178280d.jpg",
+    "static/media/shape.svg": "/static/media/shape.64ad7b65a192d9d989012695689a7fcc.svg",
+    "static/media/logo.svg": "/static/media/logo.1b4deb9605ac73a5bfdaee03ccf2e85e.svg",
+    "static/media/service2.svg": "/static/media/service2.278e77f86dbf9134cbbc26b6094212f3.svg",
+    "static/media/service6.svg": "/static/media/service6.f5a0fcfd2c1bab82ee439a58b88ab2ee.svg",
+    "static/media/service3.svg": "/static/media/service3.7f954302f22a7c41b881e96f5909dbd6.svg",
+    "static/media/service1.svg": "/static/media/service1.4dc14d71a12d03bc1deefbf783357d89.svg",
+    "static/media/call.svg": "/static/media/call.aa44942cbafccf28fdab24fed76ff4a1.svg",
+    "static/media/call1.svg": "/static/media/call1.17f3631ff644e07d563ab2ca6c4ef571.svg",
+    "index.html": "/index.html",
+    "static/media/address.svg": "/static/media/address.ad3b47e28a26bf6319504755729d8d0b.svg",
+    "static/media/travel_explore.svg": "/static/media/travel_explore.84062eba55182008784fbaca7d887c73.svg",
+    "static/media/map.svg": "/static/media/map.4eba1174a7e390adc415b877ecd6f5ed.svg",
+    "static/media/query_stats.svg": "/static/media/query_stats.4dd10a3af0aed16fb2eb8625e26894e4.svg",
+    "static/media/arrow.svg": "/static/media/arrow.114d26aacd9ce8d3874ceb21476aed56.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "static/media/health_and_safety.svg": "/static/media/health_and_safety.6bafae11c83db12f14d8c92c1b2b6920.svg",
+    "static/media/trendingup.svg": "/static/media/trendingup.63d521f314483cc489382834eaec14c8.svg",
+    "main.d68e846d.css.map": "/static/css/main.d68e846d.css.map",
+    "main.3dd8afd5.js.map": "/static/js/main.3dd8afd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68e846d.css",
+    "static/js/main.3dd8afd5.js"
+  ]
+}
